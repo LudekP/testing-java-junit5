@@ -6,6 +6,7 @@ public class IndexController {
         return "index";
     }
 
+
     public String ooupsHandler(){
         throw new ValueNotFoundException();
     }
