@@ -15,3 +15,6 @@ For questions and help:
 * Or post in the Slack Community exclusive to the course.
 
 GitHub Issues will not be addressed.
+
+## Build
+[![Build Status](https://jenkins.amanitae.eu/job/GitHub/job/testing-java-junit5/job/assertions/badge/icon)](https://jenkins.amanitae.eu/job/GitHub/job/testing-java-junit5/job/assertions/)
