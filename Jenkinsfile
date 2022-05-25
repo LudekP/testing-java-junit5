@@ -1,4 +1,7 @@
 pipeline {
+    environment {
+        email_to = '$DEFAULT_RECIPIENTS'
+    }
     agent any
     tools {
         maven "maven"
